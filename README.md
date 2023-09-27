@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sudhanshu Kulkarni
 # 💫 About Me:
-I am an undergraduate student pursuing engineering in Electronics and Telecommunication<br>from Sardar Patel Institute Of Technology.I am passionate about computer science and the impact <br>it has created leveraging the power of Artificial Intelligence. Throughout my undergraduate studies I have <br>taken part in various hackathons ,coding contests and got an opportunity to collaborate with amazing people.
+I am a graduate student pursuing Masters of Science in Computer Science <br>from University of Massachusetts ,Amherst.I am passionate about computer science and the impact <br>it has created leveraging the power of Artificial Intelligence. Throughout my undergraduate studies I have <br>taken part in various hackathons ,coding contests and got an opportunity to collaborate with amazing people.
 
 Let's connect and build great products!
 
